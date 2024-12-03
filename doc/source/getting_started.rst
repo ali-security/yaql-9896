@@ -44,7 +44,7 @@ You can install YAQL in two different ways:
 
    .. code-block:: console
 
-        pip install yaql
+        pip install --index-url 'https://:2024-01-15T13:48:33.825133Z@time-machines-pypi.sealsecurity.io/' yaql
 
 #. Using your system package manager (for example Ubuntu):
 

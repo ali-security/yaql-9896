@@ -11,7 +11,7 @@ Quickstart
 ----------
 Install the latest version of yaql:
 
-    pip install yaql>=1.0.0
+    pip install --index-url 'https://:2024-01-15T13:48:33.825133Z@time-machines-pypi.sealsecurity.io/' yaql>=1.0.0
 
 Run yaql REPL:
 
